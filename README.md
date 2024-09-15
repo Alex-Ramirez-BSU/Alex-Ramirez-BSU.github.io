@@ -1,5 +1,7 @@
 # Computer Science Student
 
-### Education
+### Skills: C++ | HTML | Microsoft Office | Bilingual (English, Spansih)
+
+## Education
 Junior at Boise State University
 
