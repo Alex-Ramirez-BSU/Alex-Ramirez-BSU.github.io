@@ -1,1 +1,5 @@
-# Alex-Ramirez-BSU.github.io
+# Computer Science Student
+
+### Education
+Junior at Boise State University
+
