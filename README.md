@@ -1,6 +1,6 @@
 # Computer Science Student
 
-#### Skills: C++ | HTML | Microsoft Office | Bilingual (English, Spanish)
+#### Skills: C++ | C | Java | HTML | Microsoft Office | Bilingual (English, Spanish)
 
 ## Education
 - A.S Computer Science | College of Southern Idaho (_May 2024_)
